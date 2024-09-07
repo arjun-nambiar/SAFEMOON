@@ -1,0 +1,18 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IFeeJar",
+  "sourceName": "contracts/interfaces/IFeeJar.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "fee",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
