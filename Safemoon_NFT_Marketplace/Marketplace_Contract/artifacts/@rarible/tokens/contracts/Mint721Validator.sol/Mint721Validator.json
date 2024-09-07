@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Mint721Validator",
+  "sourceName": "@rarible/tokens/contracts/Mint721Validator.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212201a144778cf048acccfc2749aeff6cb400773ca10d0357c03ada8a7074b4582cc64736f6c63430007060033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212201a144778cf048acccfc2749aeff6cb400773ca10d0357c03ada8a7074b4582cc64736f6c63430007060033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Mint1155Validator",
+  "sourceName": "@rarible/tokens/contracts/erc-1155/Mint1155Validator.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220ab95499ebc6343ad8a7bca08951ffc72b5d74ffce5dda20d935cbd6788d906bb64736f6c63430007060033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220ab95499ebc6343ad8a7bca08951ffc72b5d74ffce5dda20d935cbd6788d906bb64736f6c63430007060033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

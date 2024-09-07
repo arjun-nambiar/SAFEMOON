@@ -1,0 +1,37 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "BaseNFTDelayed",
+  "sourceName": "contracts/Base/BaseNFTDelayed.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "time",
+          "type": "uint256"
+        }
+      ],
+      "name": "TokensRevealed",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "revealed",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b5060838061001e6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c80635183022714602d575b600080fd5b60005460399060ff1681565b604051901515815260200160405180910390f3fea26469706673582212206e4a206f4fe8f9b7c9dc425048bae280f2c352fc92025a830eb87485cf978c7264736f6c63430008110033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c80635183022714602d575b600080fd5b60005460399060ff1681565b604051901515815260200160405180910390f3fea26469706673582212206e4a206f4fe8f9b7c9dc425048bae280f2c352fc92025a830eb87485cf978c7264736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
