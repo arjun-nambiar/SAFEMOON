@@ -1,0 +1,24 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Router",
+  "sourceName": "contracts/mocks/Router.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "WETH",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50607680601d6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c8063ad5c464814602d575b600080fd5b6040805130815290519081900360200190f3fea2646970667358221220e79df8b97ab0156d558b84efc4738ee972e7e3634f0914a41dc2cf97d0f3d77a64736f6c634300080d0033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060285760003560e01c8063ad5c464814602d575b600080fd5b6040805130815290519081900360200190f3fea2646970667358221220e79df8b97ab0156d558b84efc4738ee972e7e3634f0914a41dc2cf97d0f3d77a64736f6c634300080d0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
